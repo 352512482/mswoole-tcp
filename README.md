@@ -14,16 +14,14 @@ How to use it
 
 After you install yaf.so & swoole.so;
 
-    ```
+    ```shell
     cd /swoole
     ```
 There have three files;
-
-    ```
-    --- init.php // can start the server
-    --- App.php // is core for this framework
-    --- console.php // is a console for this server
-    ````
+    
+    init.php // can start the server
+    App.php // is core for this framework
+    console.php // is a console for this server
 
 Now we code this
 
