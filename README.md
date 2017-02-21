@@ -14,9 +14,8 @@ How to use it
 
 After you install yaf.so & swoole.so;
 
-    ```shell
     cd /swoole
-    ```
+
 There have three files;
     
     init.php // can start the server
@@ -25,10 +24,9 @@ There have three files;
 
 Now we code this
 
-    ```
-    php console.php -s start
+    php console.php -s start 
     // is support -s [start|reload|stop]
-    ```
+
 
 License
 ------
